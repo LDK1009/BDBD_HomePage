@@ -11,7 +11,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
-
  .list-inline-item svg {
   width: 30px;
   height: 30px;
@@ -11141,7 +11140,6 @@ header.masthead:before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #212529;
   opacity: 0.5;
 }
 header.masthead .page-heading,
